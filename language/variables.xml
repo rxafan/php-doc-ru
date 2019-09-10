@@ -218,7 +218,7 @@ var_dump($unset_obj);
    <para>
     До PHP 5.4, доступен старый способ доступа к информации связанной с
     HTTP-запросом, с помощью переменных <literal>HTTP_*_VARS</literal>.
-    Эта возможность может быьт отключена с помощью директивы
+    Эта возможность может быть отключена с помощью директивы
     <link linkend="ini.register-long-arrays">register_long_arrays</link>
     начиная с PHP 5.0.0.
    </para>
